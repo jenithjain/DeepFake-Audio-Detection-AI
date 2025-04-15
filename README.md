@@ -91,5 +91,5 @@ We welcome contributions from the community! 🚀
 
 2. **Clone** your forked repository:
    ```bash
-   git clone https://github.com/your-username/audio-deepfake-detection.git
-   cd audio-deepfake-detection
+   git clone https://github.com/jenithjain/DeepFake-Audio-Detetection-AI.git
+   cd DeepFake-Audio-Detetection-AI
